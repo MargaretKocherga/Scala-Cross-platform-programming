@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.2":{"hashes":[["/Users/margo/Documents/Scala CPP/Lab7/src/main/scala/lab7/Lab7.scala","9a75e76505c925c6cab7c0ae4b109ca32e73bd0c"]],"lastModifiedTimes":[]}}]
